@@ -1,21 +1,20 @@
-# co8944f19a4cdccc55a0fe045
+# 100daysofCoding
 
-Quick start:
+Day 2 of #100DaysofCoding
 
-```
-$ npm install
-$ npm start
-````
+This coding challenge is all about challenge to code (almost) daily for 100 days.
+Improving and mastering the fundamental of Frontend Tech.
 
-Head over to https://vitejs.dev/ to learn more about using vite
+## About the site 
+Super simple business card based only HTML and CSS.
+Little introduction of flexbox
+
+Shout out to Scrimba that inspired me and help me to go through the learning journey.
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
 If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
 The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
